@@ -1,0 +1,45 @@
+Time,Comp,Home,Away,Tip,H,D,A,1,X,2,U,O,U2.5,O2.5,FT
+12:00,BG1,Vitosha Bistritsa,Slavia Sofia,X2,27,47,27, , , ,92,8, , ,
+14:00,BG1,Vereya,Pirin Blagoevgrad,X1,51,42,7, , , ,92,8, , ,
+16:00,BH1,Sloboda Tuzla,Borac Banja Luka,1,82,16,2, , , ,63,37, , ,
+16:00,BH1,Radnik Bijeljina,Siroki Brijeg,2X,27,20,53, , , ,24,76, , ,
+16:00,BH1,Zrinjski Mostar,Zeljeznicar,X,40,21,40, , , ,24,76, , ,
+16:00,BH1,GOSK Gabela,Vitez,1X,60,32,8, , , ,83,17, , ,
+16:00,BH1,Celik Zenica,Mladost Doboj Kakanj,X2,24,34,42, , , ,77,23, , ,
+16:00,BH1,FK Krupa,FK Sarajevo,2,20,18,62, , , ,21,79, , ,
+16:30,BG1,Levski Sofia,Beroe,X1,41,25,34, , , ,46,54, , ,
+18:00,DN1,Odense,Lyngby,1X,59,19,21,1.59,3.35,5.00,29,71,1.94,1.88,3 - 1
+18:00,DN1,Randers FC,FC Helsingoer,X2,19,51,30,1.65,3.90,6.20,95,5,1.77,2.08,0 - 0
+18:00,PL1,Wisla Krakow,Korona Kielce,2X,27,20,53,2.32,3.35,3.25,24,76,1.84,1.98,1 - 1
+18:00,PL1,Gornik Zabrze,Pogon Szczecin,1,76,17,7,2.28,3.50,3.25,50,50,2.02,1.86,0 - 0
+19:00,RS1,Radnicki Nis,Partizan Belgrade,1X,46,20,33, , , ,24,76, , ,
+19:00,RS1,Mladost Lucani,FK Spartak Subotica,X2,35,23,42, , , ,39,61, , ,
+19:00,RS1,Zemun,Javor,X2,35,31,35, , , ,68,32, , ,
+19:00,RS1,Rad Beograd,Borac Cacak,X1,46,40,14, , , ,89,11, , ,
+19:00,RS1,Cukaricki,Backa,1,78,15,6, , , ,46,54, , ,
+19:00,RS1,Napredak,Vojvodina,X1,53,23,24, , , ,42,58, , ,
+19:00,RS1,Crvena Zvezda,Vozdovac,1,82,10,6, , , ,21,79, , ,
+19:00,RS1,Radnik Surdulica,Macva,1,74,20,6, , , ,63,37, , ,
+19:00,PL,Górnik Zabrze,Pogoń Szczecin,1,76,17,7,2.29,3.39,3.34,50,50,1.75,2.14,0 - 0
+19:00,PL,Wisła Kraków,Korona Kielce,2X,27,20,53,2.88,3.45,2.55,24,76,1.98,1.90,1 - 1
+19:00,DN1,Randers,FC Helsingør,X2,19,51,30,1.73,3.71,5.46,95,5,1.72,2.18,0 - 0
+19:00,DN1,OB,Lyngby,1X,59,19,21,1.72,3.97,5.04,29,71,2.09,1.80,3 - 1
+20:00,SP1,Getafe,Deportivo La Coruna,1X,63,28,9,1.88,3.60,5.10,77,23,1.72,2.36,3 - 0
+20:00,DN1,Hobro,FC Copenhagen,1X,48,31,21,4.90,3.50,1.93,72,28,1.78,2.26,0 - 2
+20:00,SP1,Athletic Bilbao,Valencia,X2,29,32,38,2.56,3.35,3.15,72,28,1.81,2.20,1 - 1
+20:00,SP1,Atletico Madrid,Leganes,1,62,24,15,1.24,6.20,22.00,59,41,1.90,2.08,4 - 0
+20:00,SP1,Malaga,Sevilla,2X,5,32,63,3.50,3.50,2.30,85,15,1.83,2.16,0 - 1
+20:00,SP1,Eibar,Villarreal,1,60,21,18,2.30,3.30,3.70,42,58,1.70,2.40,1 - 0
+20:30,PL1,Arka Gdynia,Piast Gliwice,X1,42,22,35,2.30,3.30,3.60,32,68,1.72,2.34,0 - 0
+20:30,PL1,Lech Poznan,Slask Wroclaw,1,65,21,15,1.53,4.20,8.00,46,54,1.92,2.04,2 - 1
+20:30,SP1,Getafe,Deportivo La Coruña,1X,63,28,9,1.80,3.50,4.90,77,23,1.70,2.20,3 - 0
+20:30,SP1,Athletic Club,Valencia,X2,29,32,38,2.47,3.30,3.00,72,28,1.76,2.10,1 - 1
+20:30,SP1,Málaga,Sevilla,2X,5,32,63,3.50,3.40,2.18,85,15,1.74,2.12,0 - 1
+20:45,SCP,Celtic,Dundee FC,X2,38,24,38, , , ,42,58, , ,
+20:45,SCP,Hibernian,Hamilton Academical,X1,49,24,27, , , ,46,54, , ,
+20:45,SCP,Motherwell,Aberdeen,X2,33,27,40,4.00,3.50,2.10,54,46,1.84,2.12,
+21:00,DN1,Hobro,København,1X,48,31,21,4.63,3.55,1.88,72,28,1.68,2.25,0 - 2
+21:30,PL,Arka Gdynia,Piast Gliwice,X1,42,22,35,2.44,3.24,3.21,32,68,1.63,2.34,0 - 0
+21:30,PL,Lech Poznań,Śląsk Wrocław,1,65,21,15,1.44,4.36,9.50,46,54,1.89,1.99,2 - 1
+22:30,SP1,Atlético Madrid,Leganés,1,62,24,15,1.23,5.75,19.00,59,41,1.80,2.11,4 - 0
+22:30,SP1,Eibar,Villarreal,1,60,21,18,2.20,3.25,3.60,42,58,1.63,2.33,1 - 0
